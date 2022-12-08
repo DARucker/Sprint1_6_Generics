@@ -27,7 +27,7 @@ public class App <T> {
 		// String
 		NoGenericsMethods<String> n2 = new NoGenericsMethods<>("Hola", "Mundo", "Mundial");
 	
-		// Otros constructores
+		// Otros constructores para practicar
 		n.inicializer(3, "Hola", 5);
 		n.inicializer2("Hola", 10, "Messi");
 	
