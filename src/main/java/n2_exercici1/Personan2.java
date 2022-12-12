@@ -34,7 +34,5 @@ public class Personan2 {
 	@Override
 	public String toString() {
 		return "Personan2 [nombre=" + nombre + "]";
-	}
-	
-	
+	}	
 }

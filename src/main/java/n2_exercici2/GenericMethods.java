@@ -5,15 +5,6 @@ import java.util.List;
 
 public class GenericMethods {
 
-
-
-	/*
-	- Ejercicio 2
-	Modifica el apartado anterior de forma que los argumentos del método
-	 genérico sean una lista de argumentos de variable indefinida.
-	
-	*/
-	
 	public static void main (String[] args) {
 		
 		GenericMethods gm = new GenericMethods();

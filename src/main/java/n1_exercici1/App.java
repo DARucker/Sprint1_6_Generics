@@ -1,15 +1,7 @@
 package n1_exercici1;
 
 public class App <T> {
-	
-	/*
-	 Crea una clase llamada NoGenericMethods que almacene tres objetos 
-	 del mismo tipo, junto con los métodos para almacenar y extraer 
-	 estos objetos y un constructor para inicializar los tres. 
-	 Comprueba que los argumentos pueden ponerse en cualquier 
-	 posición en la llamada al constructor.	 
- 
-	 */	
+		
 	private T t1, t2, t3;
 	NoGenericsMethods<T> n = new NoGenericsMethods<>();
 	
@@ -30,8 +22,6 @@ public class App <T> {
 		// Otros constructores para practicar
 		n.inicializer(3, "Hola", 5);
 		n.inicializer2("Hola", 10, "Messi");
-	
-	
 	
 	}
 	

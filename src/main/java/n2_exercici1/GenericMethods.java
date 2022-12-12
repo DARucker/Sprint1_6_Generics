@@ -1,14 +1,6 @@
 package n2_exercici1;
 
 public class GenericMethods {
-
-	/*
-	- Ejercicio 1
-
-	Modifica el ejercicio anterior de forma que uno de los argumentos 
-	del método genérico no sea genérico.
-	
-	*/
 	
 	public static void main (String[] args) {
 		
